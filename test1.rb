@@ -12,7 +12,7 @@ def c_encrypt(phrase, key)
           (asc.ord + key)
       end
   end
-  return ciphertext
+  return ciphertext 
 end
 
 def c_decrypt(phrase, key)

@@ -1,6 +1,6 @@
 
 
-module SubstitutionCipher
+module SubstitutionCipher 
   module Caesar
     # Encrypts document using key
     # Arguments:
